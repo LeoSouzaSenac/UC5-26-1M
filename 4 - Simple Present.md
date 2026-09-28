@@ -447,261 +447,142 @@ Outro exemplo:
 
 ---
 
-# 18. Exercícios
+# 18. SIMPLE PRESENT – EXERCÍCIOS
 
-## A) Complete com a forma correta do verbo
+### 1. Descubra o erro
 
-1. She _________ (work) every day.
-2. They _________ (play) soccer.
-3. He _________ (study) English.
-4. I _________ (drink) coffee.
-5. Lucas _________ (watch) TV at night.
-6. My brother _________ (go) to school every day.
-7. Ana _________ (have) a computer.
-8. They _________ (enjoy) programming.
+Todas as frases abaixo têm **um erro** no Simple Present. Encontre o erro e reescreva a frase corretamente.
 
----
+a) She work at a hospital.
+b) They likes pizza.
+c) He study English every day.
+d) We goes to school by bus.
+e) My brother watch TV at night.
+f) I likes chocolate.
 
-## B) Transforme em negativa
 
-1. She works every day.
 
 ---
 
-2. He studies English.
+### 2. Complete e descubra a regra
+
+Complete as frases com a forma correta do verbo entre parênteses.
+
+a) I __________ English every day. (study)
+b) She __________ English every day. (study)
+c) They __________ to school by bus. (go)
+d) He __________ to school by bus. (go)
+e) We __________ TV at night. (watch)
+f) My sister __________ TV at night. (watch)
+g) You __________ coffee in the morning. (drink)
+h) My father __________ coffee in the morning. (drink)
+
+**Agora pense:**
+O que muda quando o sujeito é **he, she ou it**?
+
 
 ---
 
-3. They play soccer.
+### 3. Quem é essa pessoa?
+
+Leia as informações e descubra **quem pode ser a pessoa**. Depois, escreva frases completas usando Simple Present.
+
+**Person A**
+
+* works at a school
+* teaches English
+* reads many books
+* goes to work by bus
+* likes coffee
+
+**Person B**
+
+* works at a hospital
+* helps sick people
+* studies at night
+* drinks a lot of water
+* doesn't like coffee
+
+**Person C**
+
+* works in an office
+* uses a computer
+* goes to work by car
+* enjoys music
+* doesn't work on Sundays
+
+Agora responda:
+
+a) Who works at a school?
+b) Who studies at night?
+c) Who uses a computer?
+d) Who doesn't like coffee?
+e) Who enjoys music?
+
+**Depois:** Escolha uma das pessoas e escreva **3 novas frases** sobre ela.
 
 ---
 
-4. Maria uses a computer.
+### 4. Pergunte para descobrir
+
+Imagine que você está tentando descobrir a rotina de um colega.
+
+Crie perguntas usando as palavras abaixo.
+
+**Exemplo:**
+you / work / on Saturdays?
+→ Do you work on Saturdays?
+
+Agora faça:
+
+a) you / like / pizza?
+→ ______________________________________
+
+b) she / study / English?
+→ ______________________________________
+
+c) he / play / soccer?
+→ ______________________________________
+
+d) they / go / to school by bus?
+→ ______________________________________
+
+e) your mother / work / on Sundays?
+→ ______________________________________
+
+f) your friends / watch / TV at night?
+→ ______________________________________
+
 
 ---
 
-5. I work on Saturdays.
+### 5. Verdadeiro ou falso?
 
----
+Leia as frases. Algumas são **gramaticalmente corretas**, algumas são **incorretas**.
 
----
+Marque:
 
-## C) Transforme em pergunta
+**C = correta**
+**I = incorreta**
 
-1. You work with technology.
 
----
+a) She works at a bank. ______
 
-2. She studies English.
+b) He work at a bank. ______
 
----
+c) They likes music. ______
 
-3. They play games.
+d) I study English. ______
 
----
+e) My sister studies English. ______
 
-4. He uses a computer.
+f) We goes to school every day. ______
 
----
+g) Pedro plays soccer on Saturdays. ______
 
-5. Ana works at night.
+h) She don't like coffee. ______
 
----
+i) He doesn't like coffee. ______
 
----
+j) They don't work on Sundays. ______
 
-## D) Complete com DO ou DOES
-
-1. _________ you work with computers?
-2. _________ she study English?
-3. _________ they live in Brazil?
-4. _________ he play games?
-5. _________ your brother work?
-6. _________ we have class today?
-
----
-
-## E) Complete com DON'T ou DOESN'T
-
-1. I _________ work on Sundays.
-2. She _________ study at night.
-3. They _________ play soccer.
-4. He _________ use this computer.
-5. We _________ have class today.
-
----
-
-## F) Corrija as frases
-
-1. She work every day.
-
----
-
-2. He don't like coffee.
-
----
-
-3. Does Maria studies English?
-
----
-
-4. They doesn't play soccer.
-
----
-
-5. She have a computer.
-
----
-
-6. He doesn't works here.
-
----
-
----
-
-## G) Complete com a forma correta
-
-1. She _________ English every day.
-   (study / studies)
-
-2. Does he _________ with computers?
-   (work / works)
-
-3. They _________ programming.
-   (like / likes)
-
-4. Maria doesn't _________ games.
-   (play / plays)
-
-5. My father _________ a computer.
-   (have / has)
-
-6. Does she _________ English?
-   (speak / speaks)
-
----
-
-## H) Organize as palavras
-
-1. always / I / study / English
-
----
-
-2. works / usually / she / at night
-
----
-
-3. games / they / often / play
-
----
-
-4. never / he / coffee / drinks
-
----
-
----
-
-## I) Complete utilizando WHAT, WHERE, WHEN, WHY ou HOW
-
-1. _________ do you work?
-2. _________ do you study English?
-3. _________ does she live?
-4. _________ does the class start?
-5. _________ does this program work?
-
----
-
-## J) Crie frases sobre sua rotina
-
-Escreva cinco frases usando o Simple Present.
-
-### Exemplo:
-
-* I wake up at 7 a.m.
-* I study programming every day.
-
-Agora escreva as suas:
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
----
-
-# 19. Resumo
-
-### Afirmativa
-
-**I/You/We/They + verbo**
-
-* They work.
-
-**He/She/It + verbo com S**
-
-* She works.
-
----
-
-### Negativa
-
-**I/You/We/They + don't + verbo**
-
-* They don't work.
-
-**He/She/It + doesn't + verbo**
-
-* She doesn't work.
-
----
-
-### Pergunta
-
-**Do + I/you/we/they + verbo?**
-
-* Do they work?
-
-**Does + he/she/it + verbo?**
-
-* Does she work?
-
----
-
-## Regra principal
-
-Quando usamos **does** ou **doesn't**, o verbo principal fica na forma base:
-
-* She works.
-* She doesn't work.
-* Does she work?
-
----
-
-# 20. Dica de estudo
-
-Para aprender o Simple Present, tente criar frases relacionadas à sua própria rotina.
-
-### Exemplos:
-
-* I work at Senac.
-* I study English.
-* I use a computer every day.
-* I play games at night.
-* I usually drink coffee in the morning.
-
-Depois, transforme as mesmas frases em negativas e perguntas.
-
-### Exemplo:
-
-**Afirmativa:**
-
-* I study English.
-
-**Negativa:**
-
-* I don't study English.
-
-**Pergunta:**
-
-* Do I study English?
